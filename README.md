@@ -15,6 +15,9 @@ Build a system to fetch league standings using a Football League API documentati
 - H2 in-memory database
 - Junit 5, Mockito
 
+## Swagger UI:
+We can find the Swagger Documentation for this at: http://localhost:8777/swagger-ui/
+
 ## Football League Standings Restful API
 #### Countries API:
 - To get all countries, use GET endpoint:
