@@ -15,7 +15,7 @@ Build a system to fetch league standings using a Football League API documentati
 - H2 in-memory database
 - Junit 5, Mockito
 
-## Library Management Restful API
+## Football League Standings Restful API
 #### Countries API:
 - To get all countries, use GET endpoint:
 	<a>http://localhost:8777/countries/all</a>
